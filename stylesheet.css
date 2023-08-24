@@ -1,0 +1,22 @@
+*{
+    Margin:4rem;
+    Padding:0;
+    Border:0;
+    background-color: aliceblue;
+    }
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width:30%;
+}
+
+.flex{
+    display: flex;
+}
+
+.redfooter{
+    color: red;
+}
